@@ -1,0 +1,356 @@
+body {
+    font-family: 'Tajawal', sans-serif;
+    direction: rtl;
+}
+nav{
+    font-size: 18px;
+}
+.navbar-light .navbar-brand{
+    font-size: 32px;
+    color: #89523d;
+}
+.navbar-light .navbar-brand{
+    color: #89523d;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: black;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
+    color: #89523d;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #89523d;
+}
+.LogNavBtn a, .RegNavBtn a{
+    font-size: 16px;
+    color: black;
+    text-decoration: none;
+}
+.LogNavBtn a:hover,
+.LogNavBtn a:active{
+    color: #89523d;
+    text-decoration: none;
+}
+.LogNavBtn i{
+    font-size: 24px;
+}
+.LogNavBtn i.fa-bell{
+    padding-top: 15px;
+}
+.nav-item.dropdown{
+    direction: ltr;
+}
+.profile{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+.dropdown-toggle::after{
+    color: black;
+    vertical-align: -0.270em;
+    margin-left: 0px;
+    border-top: .5em solid;
+}
+
+.carousel-item img{
+    border-radius: 30px;
+    height: 400px;
+}
+.features{
+    border: solid 1px lightgrey;
+    border-radius: 30px;
+    margin: -40px 50px 50px 50px;
+    background: white;
+    z-index: 999;
+    padding: 15px 0px;
+    position: relative;
+}
+.categories{
+    background: #eeeeee;
+    border-radius: 30px;
+    padding: 30px;
+}
+.categories p,
+.categoryName p,
+.advertisementName p,
+.advertisementFooter p.date{
+    color: #8f959b;
+}
+.categoryItem{
+    background: white;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+}
+.rate{
+    margin: 10px;
+    float: left;
+    background: #eeeeee;
+    border-radius: 30px;
+}
+.rate i{
+    color: #ffdb00;
+}
+.categoryImage{
+    padding: 30px;
+}
+.categoryImage img{
+    border-radius: 50%;
+    width: 100%;
+}
+.advertisements{
+    padding: 30px;
+}
+.advertisements h3{
+    color: #89523d;
+}
+.advertisementItem{
+    border-radius: 30px;
+    border: solid 1px lightgrey;
+    padding: 0px;
+    margin: 10px;
+    width: 100%;
+}
+.advertisementImage img{
+    height: 300px;
+    width: 100%;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.advertisementName{
+    padding: 15px;
+}
+.advertisementFooter{
+    padding: 0px 15px;
+}
+.advertisementFooter i {
+    color: #ffdb00;
+}
+footer{
+    background: #89523d;
+    direction: rtl;
+    padding: 30px 5px 0px 5px;
+}
+footer h6{
+    color: white;
+}
+footer a{
+    color: white;
+    text-decoration: navajowhite;
+}
+footer a:hover{
+    color: white;
+}
+.social{
+    padding-top: 50px;
+}
+.socialItem{
+    background: white;
+    border-radius: 50%;
+    line-height: 1;
+    margin: 5px;
+}
+.socialItem:hover{
+    background: #89523d;
+    border: solid 1px white;
+}
+.socialItem i{
+    color: #89523d;
+    padding: 5px;
+}
+.socialItem i.fa-facebook-f{
+    padding: 5px 8px;
+}
+.socialItem i:hover{
+    color: white;
+}
+/******** about page ***********/
+.heroSection img{
+    border-radius: 30px;
+}
+.aboutSection{
+    padding: 50px;
+}
+.aboutSection p{
+    margin: 50px 0px;
+    line-height: 3;
+}
+/****** advertisments page ********/
+.ads{
+    margin-top: 20px;
+    background: #eeeeee;
+    border-radius: 30px;
+}
+.advertisementItem{
+    background: white;
+}
+.advDetails{
+    padding-top: 50px;
+    margin: 30px 0px 30px 0px;
+}
+.advDetails img{
+    border-radius: 30px;
+}
+.details{
+    padding: 10px;
+}
+.details span{
+    color: #8f959b;
+}
+.details i{
+    margin: 5px;
+    font-size: 20px;
+    color: #ffdb00;
+}
+.details p{
+    color: #8f959b;
+}
+.advDetails img.smallItem{
+    width: 24%;
+    border-radius: 20px;
+}
+/********* add-adv page ******/
+.title{
+    background: #89523d;
+    border-radius: 20px;
+}
+.title h1{
+    color: white;
+    padding: 20px;
+}
+.addAdv{
+    padding: 20px;
+}
+label{
+    font-size: 20px;
+}
+input[type= text]{
+    padding: 10px;
+}
+input[type=submit]{
+    padding: 20px;
+    background: #89523d;
+    border: none;
+    border-radius: 20px;
+    color: white;
+}
+input[type=submit]:hover,
+input[type=submit]:active{
+    background: white;
+    border: solid 1px #89523d;
+    color: #89523d;
+    border-radius: 20px;
+    cursor: pointer;
+}
+/****** profile page ********/
+.profileInfo{
+    border-radius: 20px;
+    border: solid 1px lightgrey;
+    box-shadow: lightgrey 2px 2px 2px 2px;
+}
+.profileInfo i{
+    color: #89523d;
+}
+.profileImage{
+    width: 25%;
+    border: solid 1px lightgrey;
+    border-radius: 10px;
+}
+.editProfile{
+    background: #89523d;
+    color: white;
+    border-radius: 10px;
+}
+.editProfile:hover{
+    text-decoration: none;
+    color: #89523d;
+    border: solid 1px #89523d;
+    background: white;
+}
+#imageUpload
+{
+    display: none;
+}
+
+#profileImage
+{
+    cursor: pointer;
+}
+.editIcon{
+    position: absolute;
+    bottom: -5px;
+    right: 37%;
+    color: white;
+    background: #ffdb00;
+    border-radius: 50%;
+    padding: 5px 4px;
+    font-size: 12px;
+}
+/****** login page ********/
+.loginSection{
+    height: 100vh;
+}
+.loginSection .row{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.titl{
+    position: relative;
+    top: 40%;
+    transform: translateY(-50%);
+    color: white;
+}
+.hero{
+    background: #89523d;
+}
+.forget{
+    color: red;
+    font-size: 12px;
+}
+.login button{
+    background: #89523d;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    color: white;
+}
+.login button:hover{
+    background: white;
+    color: #89523d;
+    border-radius: 10px;
+    cursor: pointer;
+    border: solid 1px #89523d;
+}
+.login a{
+    display: block;
+    color: black;
+}
+/***** register page*****/
+.green{
+    color: #89523d;
+}
+.brown_anchor{
+    display: inline !important;
+    padding: 0 !important;
+    color: #89523d !important;
+}
+
+@media (min-width: 992px) and (max-width: 1200px){
+    .categoryItem{
+        width: 31%;
+    }
+    .advertisementItem{
+        width: 31%;
+    }
+}
+@media (min-width: 1201px){
+    .categoryItem{
+        width: 23%;
+    }
+    .advertisementItem{
+        width: 23%;
+    }
+}
+
+
