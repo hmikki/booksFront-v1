@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85075132-7091-497b-8330-74ad8bc7af53" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edit_profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/edit_profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-login.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/my_profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create_password.html" beforeDir="false" afterPath="$PROJECT_DIR$/create_password.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forget_password.html" beforeDir="false" afterPath="$PROJECT_DIR$/forget_password.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +44,7 @@
       <workItem from="1672639337987" duration="692000" />
       <workItem from="1672683309067" duration="3532000" />
       <workItem from="1672689010814" duration="1058000" />
-      <workItem from="1672773687426" duration="2773000" />
+      <workItem from="1672773687426" duration="3165000" />
     </task>
     <servers />
   </component>
